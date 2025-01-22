@@ -1,3 +1,8 @@
+-=(Exidy2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Exidy Universal Game Board II](https://www.system16.com/hardware.php?id=991)
 <p>Thank you to the following members of the MiSTer community: DarFPGA, Boogermann, misterretrowolf, Sorgelig, & Jotego.</p>
 <p>Thank you to the following for moral support and testing: Chris Vasquez, Guru Guy & 240p.</p>
